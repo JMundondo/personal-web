@@ -10,6 +10,15 @@ import { BrowserRouter as Router } from "react-router-dom";
 export const NavBar = () => {
   const [activeLink, setActiveLink] = useState("home");
   const [scrolled, setScrolled] = useState(false);
+  const [hover, setHover] = useState(false);
+
+  const handleMouseEnter = () => {
+    setHover(true);
+  };
+
+  const handleMouseLeave = () => {
+    setHover(false);
+  };
 
   useEffect(() => {
     const onScroll = () => {
@@ -71,14 +80,23 @@ export const NavBar = () => {
             <Nav className="ml-auto">
               <span className="navbar-text">
                 <div className="social-icon">
-                  <a href="#">
+                  <a href="https://www.linkedin.com/in/tinashe-mundondo-103953176/">
                     <img src={navIcon1} alt="" />
                   </a>
-                  <a href="#">
-                    <img src={navIcon2} alt="" />
-                  </a>
-                  <a href="#">
-                    <img src={navIcon3} alt="" />
+                </div>
+                <div
+                  className="social-icon"
+                  onMouseEnter={handleMouseEnter}
+                  onMouseLeave={handleMouseLeave}
+                >
+                  <a href="https://github.com/JMundondo">
+                    <img
+                      src={navIcon3}
+                      alt=""
+                      style={{
+                        backgroundColor: hover ? "transparent" : "white",
+                      }}
+                    />
                   </a>
                 </div>
                 <HashLink to="#connect">

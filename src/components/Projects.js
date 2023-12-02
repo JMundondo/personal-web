@@ -16,21 +16,26 @@ export const Projects = () => {
       title: "Change Wallet , Round Coin",
       description: "Solving the Change Issue with Round Coin",
       imgUrl: projImg2,
+      projectUrl: "https://apps.apple.com/us/app/round-coin/id6468482795",
     },
     {
       title: "Round DashBoard",
       description: "A point of sell for accepting Round Coins And Coupons",
       imgUrl: projImg4,
+      projectUrl: "https://roundweb-db506.web.app/",
     },
     {
       title: "Citizen App",
       description: "Citizen journalism",
       imgUrl: projImg3,
+      projectUrl: "https://github.com/ThatBrandGuyAndAssociates/CitizenApp",
     },
     {
       title: "workzuite",
       description: "Accounting Software",
       imgUrl: projImg5,
+      projectUrl:
+        "https://app.workzuite.com/sign-in?message=Please_sign_in_first",
     },
   ];
 
