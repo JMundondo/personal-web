@@ -37,10 +37,9 @@ export const Skills = () => {
               <h2>Skills</h2>
               <p>
                 With expertise in Node.js, TypeScript, React.js, Next.js, React
-                Native, and Solidity, you are well-equipped for full-stack,
-                front-end, and blockchain development, making me a valuable
-                asset in the tech industry<br></br>, making me a valuable asset
-                in the tech industry
+                Native, and Solidity, i am well-equipped for full-stack,
+                front-end, and blockchain development,<br></br>, making me a
+                valuable asset in the tech industry
               </p>
               <Carousel
                 responsive={responsive}
