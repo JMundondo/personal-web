@@ -23,8 +23,7 @@ export const Projects = () => {
 
     {
       title: "ERP EMerchandiser DashBoard",
-      description:
-        "A comprehensive ERP system designed to streamline and optimize the reporting process for merchandisers in the field, providing real-time data and insights to enhance decision-making and improve overall business performance",
+      description: "A comprehensive ERP ",
       imgUrl: dashboard,
       projectUrl: "https://enzonedashboard-production.up.railway.app/",
     },
@@ -49,8 +48,7 @@ export const Projects = () => {
     },
     {
       title: "ERP EMerchandiser Mobile App",
-      description:
-        "A comprehensive ERP system designed to streamline and optimize the reporting process for merchandisers in the field, providing real-time data and insights to enhance decision-making and improve overall business performance",
+      description: "A comprehensive ERP system ",
       imgUrl: projIMG6,
       projectUrl: "https://play.google.com/store/apps/details?id=com.enzon",
     },
