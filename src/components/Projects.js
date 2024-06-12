@@ -20,13 +20,7 @@ export const Projects = () => {
       imgUrl: projImg2,
       projectUrl: "https://apps.apple.com/us/app/round-coin/id6468482795",
     },
-    {
-      title: "ERP EMerchandiser Mobile App",
-      description:
-        "A comprehensive ERP system designed to streamline and optimize the reporting process for merchandisers in the field, providing real-time data and insights to enhance decision-making and improve overall business performance",
-      imgUrl: projIMG6,
-      projectUrl: "https://play.google.com/store/apps/details?id=com.enzon",
-    },
+
     {
       title: "ERP EMerchandiser DashBoard",
       description:
@@ -52,6 +46,13 @@ export const Projects = () => {
       imgUrl: projImg5,
       projectUrl:
         "https://app.workzuite.com/sign-in?message=Please_sign_in_first",
+    },
+    {
+      title: "ERP EMerchandiser Mobile App",
+      description:
+        "A comprehensive ERP system designed to streamline and optimize the reporting process for merchandisers in the field, providing real-time data and insights to enhance decision-making and improve overall business performance",
+      imgUrl: projIMG6,
+      projectUrl: "https://play.google.com/store/apps/details?id=com.enzon",
     },
   ];
 
