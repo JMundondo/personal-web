@@ -6,7 +6,7 @@ import projImg3 from "../assets/img/citizenApp4.png";
 import projImg4 from "../assets/img/desktop2.png";
 import projImg5 from "../assets/img/logo512.png";
 import dashboard from "../assets/img/dashbord.png";
-import projIMG6 from "../asset/img/proj6.jpeg";
+import projIMG6 from "../assets/img/proj5.jpeg";
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
