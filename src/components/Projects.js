@@ -5,6 +5,8 @@ import projImg2 from "../assets/img/mockrocket-home.png";
 import projImg3 from "../assets/img/citizenApp4.png";
 import projImg4 from "../assets/img/desktop2.png";
 import projImg5 from "../assets/img/logo512.png";
+import dashboard from "../assets/img/dashbord.png";
+import projIMG6 from "../asset/img/proj6.jpeg";
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
@@ -17,6 +19,20 @@ export const Projects = () => {
       description: "Solving the Change Issue with Round Coin",
       imgUrl: projImg2,
       projectUrl: "https://apps.apple.com/us/app/round-coin/id6468482795",
+    },
+    {
+      title: "ERP EMerchandiser Mobile App",
+      description:
+        "A comprehensive ERP system designed to streamline and optimize the reporting process for merchandisers in the field, providing real-time data and insights to enhance decision-making and improve overall business performance",
+      imgUrl: projIMG6,
+      projectUrl: "https://play.google.com/store/apps/details?id=com.enzon",
+    },
+    {
+      title: "ERP EMerchandiser DashBoard",
+      description:
+        "A comprehensive ERP system designed to streamline and optimize the reporting process for merchandisers in the field, providing real-time data and insights to enhance decision-making and improve overall business performance",
+      imgUrl: dashboard,
+      projectUrl: "https://enzonedashboard-production.up.railway.app/",
     },
     {
       title: "Round DashBoard",

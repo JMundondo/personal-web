@@ -84,7 +84,7 @@ export const Banner = () => {
                     As a versatile and experienced full stack developer, I am
                     passionate about crafting innovative and user-centric
                     solutions. With a keen eye for detail and a commitment to
-                    excellence, I bring 2+ years of experience in developing
+                    excellence, I bring 5+ years of experience in developing
                     robust and scalable applications. My portfolio showcases a
                     diverse range of projects that demonstrate my proficiency in
                     front-end and back-end technologies. Let's collaborate and

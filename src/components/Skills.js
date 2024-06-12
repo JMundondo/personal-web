@@ -50,8 +50,9 @@ export const Skills = () => {
                   <img src={meter1} alt="Image" />
                   <h5>
                     Web Development
-                    <br></br> React JS
-                    <br></br> Next Js
+                    <br></br> ReactJS
+                    <br></br> JavaScript
+                    <br></br> NextJs
                     <br></br> Vue JS
                     <br></br>Tailwind Css
                   </h5>
@@ -59,7 +60,10 @@ export const Skills = () => {
                 <div className="item">
                   <img src={meter1} alt="Image" />
                   <h5>Backend Development</h5>
-                  <br></br> Node JS
+                  <br></br> NodeJS
+                  <br></br> NestJs
+                  <br></br> TypeScript
+                  <br></br> PHP
                   <br></br> Ethereum EVM
                   <br></br> Laravel
                   <br></br> Firebase
