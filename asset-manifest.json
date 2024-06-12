@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-web/static/css/main.8172958e.css",
-    "main.js": "/personal-web/static/js/main.a146cd6a.js",
+    "main.js": "/personal-web/static/js/main.66f983a8.js",
     "static/js/787.44719000.chunk.js": "/personal-web/static/js/787.44719000.chunk.js",
     "static/media/color-sharp.png": "/personal-web/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/citizenApp4.png": "/personal-web/static/media/citizenApp4.7477464fbbab56aa8290.png",
@@ -15,10 +15,10 @@
     "static/media/CentraNo2-Medium.ttf": "/personal-web/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/personal-web/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/project-img1.png": "/personal-web/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/proj5.jpeg": "/personal-web/static/media/proj5.e8ec035f66f1d438b128.jpeg",
     "static/media/footer-bg.png": "/personal-web/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/contact-img.svg": "/personal-web/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/logo512.png": "/personal-web/static/media/logo512.3557c32f68a8bc63fee6.png",
-    "static/media/proj6.jpeg": "/personal-web/static/media/proj6.0d75fe8c468f982e9d8c.jpeg",
     "static/media/revicons.eot": "/personal-web/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/personal-web/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/personal-web/static/media/revicons.e8746a624ed098489406.woff",
@@ -33,11 +33,11 @@
     "static/media/arrow1.svg": "/personal-web/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/personal-web/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.8172958e.css.map": "/personal-web/static/css/main.8172958e.css.map",
-    "main.a146cd6a.js.map": "/personal-web/static/js/main.a146cd6a.js.map",
+    "main.66f983a8.js.map": "/personal-web/static/js/main.66f983a8.js.map",
     "787.44719000.chunk.js.map": "/personal-web/static/js/787.44719000.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8172958e.css",
-    "static/js/main.a146cd6a.js"
+    "static/js/main.66f983a8.js"
   ]
 }
